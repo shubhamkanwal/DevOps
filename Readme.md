@@ -7,9 +7,3 @@
  5. Gitlab as a CI
  6. Prometheus for monitoring Kubernetes cluster.
  
- #Git commands to create local repo and add to gihub repo.
-
- 1. Create a local git repository: 
-    git init
-
- 2. 
